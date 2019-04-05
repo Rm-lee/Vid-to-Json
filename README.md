@@ -26,5 +26,10 @@ After processing this image to get the json file with the flags
 ![bottle](https://user-images.githubusercontent.com/43976537/55659548-32e20c80-57d0-11e9-86e2-255bea0f3abb.png)
 
 
+Manipulate the data however you see fit. Recreate the image/video in another language, alter the images, change the colors.  
+Example img is JS being used to set a text object at each pixel location using the same color of the original pixel.  
+
+![textbottle](https://user-images.githubusercontent.com/43976537/55659988-147d1080-57d2-11e9-9409-1a8edd5c7813.png)
+
 
   
