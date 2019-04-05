@@ -7,7 +7,7 @@
   vid2json.py -i imagefile -p 10  
   The flag -i is the path to an image file. The flag -p 10 says every 10th pixel analyze the rgb data of this pixel.  
   
-  vid2json.py -v videofile -p10 -f 49   
+  vid2json.py -v videofile -p 10 -f 49   
   The flag -v is the path to a video file. The flag -p is the pixel skip count. The flag -f is the number of video  
   frames you want to cut from the video and process.
 
