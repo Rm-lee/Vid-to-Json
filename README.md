@@ -20,11 +20,11 @@
 
 
 
-After processing this image with  
-### vid2json.py -i image.png -p 10  
+After processing this image to get the json file with the flags    
+#### vid2json.py -i image.png -p 10  
 
 ![bottle](https://user-images.githubusercontent.com/43976537/55659548-32e20c80-57d0-11e9-86e2-255bea0f3abb.png)
 
 
 
-### We get the json file  
+  
