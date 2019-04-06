@@ -28,7 +28,7 @@ This command will take this image and create a json file with every 10th pixels 
  
 Example img below is using JS to set a text object at every 10th pixel using the same color of the original pixel.  
 
-<p align="center"><img src="https://user-images.githubusercontent.com/43976537/55659988-147d1080-57d2-11e9-9409-1a8edd5c7813.png" width="400px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/43976537/55659988-147d1080-57d2-11e9-9409-1a8edd5c7813.png" width="70%"></p>
 
 
   
