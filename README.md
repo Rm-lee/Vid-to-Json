@@ -29,7 +29,7 @@ After processing this image to get the json file with the flags
  
 Example img is JS being used to set a text object at every 10th pixel using the same color of the original pixel.  
 
-<img src="https://user-images.githubusercontent.com/43976537/55659988-147d1080-57d2-11e9-9409-1a8edd5c7813.png" width="400px>
+<img src="https://user-images.githubusercontent.com/43976537/55659988-147d1080-57d2-11e9-9409-1a8edd5c7813.png" width="400px">
 
 
   
