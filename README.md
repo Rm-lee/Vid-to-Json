@@ -20,13 +20,13 @@
 
 
 
-After processing this image to get the json file with the flags    
+This command will take this image and create a json file with every 10th pixels information.    
 #### vid2json.py -i image.png -p 10  
 
 <img src="https://user-images.githubusercontent.com/43976537/55659548-32e20c80-57d0-11e9-86e2-255bea0f3abb.png" width="48%"><img src="https://user-images.githubusercontent.com/43976537/55663479-62067700-57ec-11e9-9aa2-1152dfabec31.png" width="48%">
 
  
-Example img is JS being used to set a text object at every 10th pixel using the same color of the original pixel.  
+Example img below is using JS to set a text object at every 10th pixel using the same color of the original pixel.  
 
 <img src="https://user-images.githubusercontent.com/43976537/55659988-147d1080-57d2-11e9-9409-1a8edd5c7813.png" width="400px">
 
