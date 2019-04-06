@@ -23,8 +23,7 @@
 After processing this image to get the json file with the flags    
 #### vid2json.py -i image.png -p 10  
 
-<img src="https://user-images.githubusercontent.com/43976537/55659548-32e20c80-57d0-11e9-86e2-255bea0f3abb.png" width="40%" display="inline-block">
-<img src="https://user-images.githubusercontent.com/43976537/55663479-62067700-57ec-11e9-9aa2-1152dfabec31.png" width="40%" display="inline-block">
+<img src="https://user-images.githubusercontent.com/43976537/55659548-32e20c80-57d0-11e9-86e2-255bea0f3abb.png" width="40%"><img src="https://user-images.githubusercontent.com/43976537/55663479-62067700-57ec-11e9-9aa2-1152dfabec31.png" width="40%">
 
  
 Example img is JS being used to set a text object at every 10th pixel using the same color of the original pixel.  
