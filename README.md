@@ -23,7 +23,7 @@
 This command will take this image and create a json file with every 10th pixels information.    
 #### vid2json.py -i image.png -p 10  
 
-<div text-align="center"><img  src="https://user-images.githubusercontent.com/43976537/55663479-62067700-57ec-11e9-9aa2-1152dfabec31.png" width="48%"></div>
+<div style="text-align:center"><img  src="https://user-images.githubusercontent.com/43976537/55663479-62067700-57ec-11e9-9aa2-1152dfabec31.png" width="48%"></div>
 
  
 Example img below is using JS to set a text object at every 10th pixel using the same color of the original pixel.  
