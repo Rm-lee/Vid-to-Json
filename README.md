@@ -9,7 +9,7 @@
   
   vid2json.py -v videofile -p 10 -f 49   
   The flag -v is the path to a video file. The flag -p is the pixel skip count. The flag -f is the number of video  
-  frames you want to cut from the video and process.
+  frames you want to cut from the video and process.  
 
 
 
